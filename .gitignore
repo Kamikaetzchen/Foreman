@@ -1,7 +1,9 @@
 /.vs/
+/.vscode/
 /Foreman/Foreman.csproj.user
 /Foreman/bin/
 /Foreman/obj/
+/ForemanTest/bin/
 /ForemanTest/obj/
 /packages/
 /ForemanTest/bin/Release/
